@@ -99,8 +99,8 @@ FPR is the ratio of -ve instances that have been incorrectly classified as Posit
 
 ![image](https://user-images.githubusercontent.com/100412162/174504398-8bf251eb-55de-4a45-9b04-3059ae28224e.png)
 
+To compare multiple classifiers we use Area under the ROC curve.
 
+We make predicitons using the RandomForestClassifier and the SGD and then compare them as below:-
 
-
-
-
+![image](https://user-images.githubusercontent.com/100412162/176000491-f8959eb5-4537-4014-9a17-1e9ef8592f31.png)
