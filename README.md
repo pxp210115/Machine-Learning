@@ -24,3 +24,16 @@ The different types of Machine Learning
 * Error Analysis
 
 ### Chapter -4 Training Models
+
+
+
+### Chapter -10 Introduction to Artificial Neural Networks with Keras
+
+* What is a Perceptron?
+* Multi-Layer Perceptron?
+* Backpropogation
+* Image Classifier using Sequential API
+* Regression MLP using Sequential API
+* What is the Keras Functional API
+* Wide and Deep Neural Network
+* Callbacks ( ModelCheckpoint Callback)
