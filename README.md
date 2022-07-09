@@ -9,7 +9,7 @@ The different types of Machine Learning
 
 ### Chapter -2 End to End ML Project
 
-### Chapter -3 Classification
+### (Chapter -3 Classification)[https://github.com/pxp210115/Hands-on-ML-and-Neural-Networks-/tree/main/Chapter-3%20Classification]
 
 * What is Classification?
 * MNIST Data Exploration.
@@ -23,11 +23,11 @@ The different types of Machine Learning
 * Multiclass Classification
 * Error Analysis
 
-### Chapter -4 Training Models
+### (Chapter -4 Training Models)[https://github.com/pxp210115/Hands-on-ML-and-Neural-Networks-/tree/main/Chapter-4%20Training%20Models]
 
 
 
-### Chapter -10 Introduction to Artificial Neural Networks with Keras
+### (Chapter -10 Introduction to Artificial Neural Networks with Keras)[https://github.com/pxp210115/Hands-on-ML-and-Neural-Networks-/tree/main/Chapter-10%20Introduction%20to%20ANN%20with%20Keras]
 
 * What is a Perceptron?
 * Multi-Layer Perceptron?
