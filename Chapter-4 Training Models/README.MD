@@ -28,7 +28,7 @@ This allows us to predict the value of 'y' given any 'x'.
  
 ![image](https://user-images.githubusercontent.com/100412162/178146126-a0ef1605-47e5-4259-8574-b70cf43405cc.png)
  
- The Beta(0) term is what is called as the bias term/intercept term. Beta(1) is the coefficient of 'x' which is the input variable to predict 'y' which is the output variable. It is always in the form of 
+ The Beta(0) term is what is called as the bias term/intercept term. Beta(1) is the coefficient of 'x' which is the input variable to predict 'y' which is the output variable. It is always in the form of y=mx +c.
  
  In order to understand the performance measure of a regression model we use RMSE( Root Mean squared error).
  
@@ -49,6 +49,8 @@ Major steps involved:-
 1) You can start filling the vector with random values (Random initialization). Then you improve it gradually until the algorithm converges at the minimum.
 
 ![image](https://user-images.githubusercontent.com/100412162/178146052-ed2d2ed9-da56-4bc5-9ff0-396a7aba1bd6.png)
+
+
 
 
 
