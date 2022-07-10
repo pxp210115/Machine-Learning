@@ -2,7 +2,8 @@
 
 ## Linear Regression :- 
 
-![image](https://user-images.githubusercontent.com/100412162/176449748-2132ff43-2f92-4289-90cc-165c1ca7f99a.png)
+![image](https://user-images.githubusercontent.com/100412162/178146080-c8cbf5c8-2a7d-4fd0-a75d-fc8d9d7da961.png)
+
 
 The above image demonstrates that Linear Regression is the model that tries to find a linear/ direct solution of how two parameters interact with each other and understand their relationship mathematically.
 This allows us to predict the value of 'y' given any 'x'.
@@ -25,9 +26,9 @@ This allows us to predict the value of 'y' given any 'x'.
     
  ## 1) Direct-closed form equation :- 
  
- ![image](https://user-images.githubusercontent.com/100412162/176451547-08769e8a-3d77-4acb-97cf-4c4cc7acb5b7.png)
+![image](https://user-images.githubusercontent.com/100412162/178146126-a0ef1605-47e5-4259-8574-b70cf43405cc.png)
  
- The Beta(0) term is what is called as the bias term/intercept term. Beta(1) is the coefficient of 'x' which is the input variable to predict 'y' which is the output variable.
+ The Beta(0) term is what is called as the bias term/intercept term. Beta(1) is the coefficient of 'x' which is the input variable to predict 'y' which is the output variable. It is always in the form of 
  
  In order to understand the performance measure of a regression model we use RMSE( Root Mean squared error).
  
@@ -41,7 +42,14 @@ This allows us to predict the value of 'y' given any 'x'.
  
  ## 2) Gradient Descent :- 
  
- The idea of a gradient descent is to tweak paramters iteratively in order to minimize a cost function
+The idea of a gradient descent is to tweak paramters iteratively in order to minimize a cost function which is usually MSE/MAE for regression and Cross_entropy for classification problems.
+ 
+Major steps involved:-
+
+1) You can start filling the vector with random values (Random initialization). Then you improve it gradually until the algorithm converges at the minimum.
+
+![image](https://user-images.githubusercontent.com/100412162/178146052-ed2d2ed9-da56-4bc5-9ff0-396a7aba1bd6.png)
+
 
 
 
