@@ -1,5 +1,5 @@
 # Machine-Learning
-Implemented state-of the art ML models on a variety of datasets. Repository also contains notes from the book "Hand's-on Machine Learning with Sci-kit Learn, Keras and Tensorflow".
+Repository contains all the code implementations and detailed notes from the book "Hand's-on Machine Learning with Sci-kit Learn, Keras and Tensorflow".
 
 
 ## Notes from the Book in attached ipynb files:-
