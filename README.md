@@ -1,8 +1,28 @@
 # Machine-Learning
-Repository contains all the code implementations and detailed notes from the book "Hand's-on Machine Learning with Sci-kit Learn, Keras and Tensorflow".
+Repository contains all my Medium articles, notes and modelling using Sci-kit Learn on a variety of Datasets.
 
+I published my first course on Medium ["Machine_Learning_A_to_Z"](https://medium.com/@parichay2406/list/machinelearningatoz-b573429a7d83) where I breakdown complex ML algorithms into simple Math and logic.
 
-## Notes from the Book in attached ipynb files:-
+<p align="center">
+  <img width="400" height="300" src="https://github.com/pxp210115/Machine_Learning-with-Scikit-Learn/blob/main/Images/Screen%20Shot%202022-11-06%20at%209.12.16%20AM.png">
+</p>
+
+## Table of Contents
+
+| S.no | Dataset | Algorithm | Results | 
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+## Regression
+
+My Medium articles:
+
+[All you need to know about Linear Regression and Gradient Descent in 7 minutes..](https://medium.com/@parichay2406/all-you-need-to-know-about-linear-regression-and-gradient-descent-in-7-minutes-5d2431f13313)
+
+[The 4 Most Fundamental yet Overlooked Assumptions of Linear Regression..](https://medium.com/@parichay2406/the-4-most-fundamental-yet-overlooked-assumptions-of-linear-regression-aa855061047)
+
+[Is Linear Regression not giving the best results? Try Polynomial Regression or Linear Regularized models..](https://medium.com/@parichay2406/is-linear-regression-not-giving-the-best-results-f1c270c05ccc)
 
 ### Chapter -1 Talks about the generic ML Landscape
 The different types of Machine Learning
