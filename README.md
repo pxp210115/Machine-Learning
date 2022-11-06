@@ -9,10 +9,15 @@ I published my first course on Medium ["Machine_Learning_A_to_Z"](https://medium
 
 ## Table of Contents
 
-| S.no | Dataset | Algorithm | Results | 
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| S.no | Dataset | Aim | Algorithms Used | Results |
+| --- | --- | --- | --- | --- |
+| 1. | [CSV](https://www.kaggle.com/code/devzohaib/simple-linear-regression/data?select=tvmarketing.csv) | Predict Sales based on TV Marketing Budget | - [x] #739 - [ ] https://github.com/octo-org/octo-repo/issues/740 - [ ] Add delight to the experience when all tasks are complete | 67.3% R2 |
+
+| S.no | Dataset  | Aim      | Algorithms Used  | Results |
+|------|----------|----------|------------------|---------|
+| 1.   | [CSV](https://www.kaggle.com/code/devzohaib/simple-linear-regression/data?select=tvmarketing.csv)   | Predict  |                  |         |
+|      |          |          |                  |         |
+|      |          |          |                  |         |
 
 ## Regression
 
