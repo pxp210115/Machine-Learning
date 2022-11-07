@@ -1,5 +1,9 @@
 # Predicting Heart Disease 
 
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/100412162/200221104-4522f711-dc4e-4eb9-9996-f94742addb38.png">
+</p>
+
 ## Aim:
 
 The AIM is to predict if a person would suffer from a heart disease given the person's biological measurements such as Blood Pressure, cholestrol etc.
@@ -14,6 +18,8 @@ The AIM is to predict if a person would suffer from a heart disease given the pe
 - [ ] 0 for No Disease
 
 - [ ] 1 for Disease
+
+### [Python notebook link](https://github.com/pxp210115/Machine_Learning-with-Scikit-Learn/blob/main/1.%20Predict%20Heart%20Disease_Classification/1.Heart_disease_Classification.ipynb)
 
 ## Data:
 
