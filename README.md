@@ -17,19 +17,12 @@ I published my first course on Medium ["Machine_Learning_A_to_Z"](https://medium
 ## Table of Contents
 
 | S.no | Dataset                                                                                                                                                                                             | Task           | Aim                                                                                                                                              | Variables | Algorithms Used                                   | Results         | Concepts Used                               |
-|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------|---------------------------------------------------|-----------------|---------------------------------------------|
+|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------------------------------------------------|-----------------|---------------------------------|
 | 1.   | [CSV](https://www.kaggle.com/code/bakar31/heart-disease-analysis-and-prediction/data?select=heart.csv) | Classification | [Predict Heart disease](https://github.com/pxp210115/Machine_Learning-with-Scikit-Learn/tree/main/1.%20Predict%20Heart%20Disease_Classification) | 14        | `Random Forests`, `Linear Support Vector Machine` | 99.74% accuracy | `StandardScaling`,`Hyper-parameter Tuning` |
 |      |                                                                                                                                                                                                     |                |                                                                                                                                                  |           |                                                   |                 |                                             |
 |      |                                                                                                                                                                                                     |                |                                                                                                                                                  |           |                                                   |                 |                                             |
 
 ## Regression
-
-
-
-### Chapter -1 Talks about the generic ML Landscape
-The different types of Machine Learning
-
-### Chapter -2 End to End ML Project
 
 ### [Chapter -3 Classification](https://github.com/pxp210115/Hands-on-ML-and-Neural-Networks-/tree/main/Chapter-3%20Classification)
 
