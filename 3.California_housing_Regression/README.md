@@ -36,9 +36,8 @@ Comparing ROC_curve for SGDClassifier vs a more complex model such as Random For
 
 ![image](https://user-images.githubusercontent.com/100412162/200453550-106306f8-449d-4b2e-8c15-1852f680e7e2.png)
 
-Best Model:
-Random Forests
+`Best Model:Random Forests`
 
-R² value: 80.39%
+`R² value: 80.39%`
 
 
