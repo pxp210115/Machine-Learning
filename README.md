@@ -20,19 +20,11 @@ I published my first course on Medium ["Machine_Learning_A_to_Z"](https://medium
 |------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----------------------------------------------------|---------------------|-------------------------------------------------------------------|
 | 1.   | [CSV](https://www.kaggle.com/code/bakar31/heart-disease-analysis-and-prediction/data?select=heart.csv) | Classification | [Predict Heart disease](https://github.com/pxp210115/Machine_Learning-with-Scikit-Learn/tree/main/1.%20Predict%20Heart%20Disease_Classification) | 14                  | `Random Forests`, `Linear Support Vector Machine`   | 99.74% accuracy     | `Standard Scaling`,`Hyper-parameter Tuning`                       |
 | 2.   | [CSV](https://keras.io/api/datasets/mnist/)                                                                                                                                                         | Classification | [Predict Hand-written digit from Images](https://github.com/pxp210115/Machine_Learning-with-Scikit-Learn/tree/main/Chapter-3%20Classification)   | 784 features/pixels | `SGDClassifier` `Random Forests`                    | 95% k-fold accuracy | `Binary Classifier` `Evaluation Metrics` `Hyper-parameter Tuning` |
-| 3.   | [CSV](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)                                                                                             | Regression     | [Predict Housing prices]()                                                                                                                       | 8                   | `Linear Regression` `SGDRegressor` `Random Forests` | 80.39% R²           | `Robust Scaler` `Gradient Descent` `Random Forests`               |
+| 3.   | [CSV](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)                                                                                             | Regression     | [Predict Housing prices](https://github.com/pxp210115/Machine_Learning-with-Scikit-Learn/tree/main/3.California_housing_Regression)                                                                                                                       | 8                   | `Linear Regression` `SGDRegressor` `Random Forests` | 80.39% R²           | `Robust Scaler` `Gradient Descent` `Random Forests`               |
 
-### [Chapter -4 Training Models](https://github.com/pxp210115/Hands-on-ML-and-Neural-Networks-/tree/main/Chapter-4%20Training%20Models)
+### [Regression Notes](https://github.com/pxp210115/Hands-on-ML-and-Neural-Networks-/tree/main/Chapter-4%20Training%20Models)
 
 
 
-### [Chapter -10 Introduction to Artificial Neural Networks with Keras](https://github.com/pxp210115/Hands-on-ML-and-Neural-Networks-/tree/main/Chapter-10%20Introduction%20to%20ANN%20with%20Keras)
+### [Artificial Neural Networks with Keras notes](https://github.com/pxp210115/Hands-on-ML-and-Neural-Networks-/tree/main/Chapter-10%20Introduction%20to%20ANN%20with%20Keras)
 
-* What is a Perceptron?
-* Multi-Layer Perceptron?
-* Backpropogation
-* Image Classifier using Sequential API
-* Regression MLP using Sequential API
-* What is the Keras Functional API
-* Wide and Deep Neural Network
-* Callbacks ( ModelCheckpoint Callback)
